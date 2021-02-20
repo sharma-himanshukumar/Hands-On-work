@@ -1,4 +1,4 @@
 # Hands-On-work
 Hi Coders. 
-I'm an energy + people style person. I believe in regular improvement, even if it's 1% but should be regular.
-I love writing code because it helps me relate the problem statement in a mathematical fashion.
+I'm an energy + people style person. I believe in regular improvement, even if it's 1%.
+I'm Data Science Enthusiast | Passionately computing Data with Maths | GOAL 1% improvement Everyday|
