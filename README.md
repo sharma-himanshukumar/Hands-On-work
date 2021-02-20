@@ -2,6 +2,8 @@
 The idea is to create a Neural Network that can detect if the image is a rectangle or a Circle. The training data is present in the input file, data-set is created on paint one by one (Yes I sound very idiotic I can understand, based on my curiosity).
 
 The Convolutional Network data is just based on own judgement if you Fork it feel free to change the model.
+
+
 Layer (type)                 Output Shape              Param #   
 =================================================================
 conv2d_6 (Conv2D)            (None, 224, 224, 32)      896       
